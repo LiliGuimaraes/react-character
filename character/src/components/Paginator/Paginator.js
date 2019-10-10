@@ -1,5 +1,7 @@
 import React from 'react';
+
 import './Paginator'
+
 export default function Paginator(){
     return(
         <div className='paginator-container'>
